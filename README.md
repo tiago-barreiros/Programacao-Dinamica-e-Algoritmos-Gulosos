@@ -1,11 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-# ![Header](images/logo.png)
-
-</div>
-
 # Os trocos trocados
 
 <table>
